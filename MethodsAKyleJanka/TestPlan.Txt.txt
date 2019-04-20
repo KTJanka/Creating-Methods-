@@ -1,0 +1,6 @@
+Kyle Janka
+Creating Methods
+
+I had to redo the validation for this program and that took a significant amount of time considering how many variables I needed to validate.
+When it came to creating the method it took me a few times to realize the method needed to be outside the click event to be able to be called.
+After I figured that out and relized I needed to return the variable declared inside the new method, everything worked as intended.
